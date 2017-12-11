@@ -2,11 +2,11 @@
 
 These instructions will help you to get the copy of the task and running it on your local machine.Python-Flask is the language/framework used.
 
-##Prerequisites##
+### Prerequisities ##
 1.Install latest version of Python fron (https://www.python.org/)
 2.Download get-pip.py file from pip link (https://pip.pypa.io/en/stable/install...)
 
-###Getting started##
+## Getting started ##
 open the terminal tool (command prompt for windows) and go to get-pip.py file directory and run the following command.
 ```
 python get-pip.py
