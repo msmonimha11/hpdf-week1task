@@ -4,6 +4,8 @@ These instructions will help you to get the copy of the task and running it on y
 
 ### Prerequisities ##
 1.Install latest version of Python fron (https://www.python.org/)
+
+
 2.Download get-pip.py file from pip link (https://pip.pypa.io/en/stable/install...)
 
 ## Getting started ##
@@ -33,7 +35,12 @@ for the _ini_.py file
 ```
 python _ini_.py
 ```
-###Reference used##
+### Reference used ##
+
+
+
 *miguelgrinberg.com
+
 *tutorialspoint.com
+
 *preety printed-youtube
