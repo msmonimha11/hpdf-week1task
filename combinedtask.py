@@ -1,4 +1,4 @@
-from __future__ import print_function
+
 from flask import Flask,render_template,make_response,request
 import requests,sys
 app = Flask(__name__)
